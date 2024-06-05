@@ -10,7 +10,7 @@ import java.net.URL;
 
 public class RandomGif {
     private static final String API_URL = "https://api.giphy.com/v1/gifs/random";
-    private static final String API_KEY = "SAUAZzwRTKgFX1XCPZJJyA5o55zV4vmn"; // Replace with your Giphy API key
+    private static final String API_KEY = "Your Secret Key"; // Replace with your Giphy API key
     private static final String TAG = "funny";
 
     public RandomGif() {
